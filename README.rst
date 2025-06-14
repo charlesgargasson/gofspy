@@ -3,7 +3,7 @@ GoFspy
 ######
 
 | Monitoring files and pipes using golang.
-| You can use https://gitlab.com/charles.gargasson/gopspy for processes.
+| You can use https://github.com/charlesgargasson/gopspy for processes.
 
 |
 
