@@ -23,8 +23,8 @@ Build
 |
 | Pre-compiled releases, for lab/ctf (don't trust binaries from strangers)
 
-- https://dl.offensive.run/compiledmyself/gofspy.exe
-- https://dl.offensive.run/compiledmyself/gofspy32.exe
+- https://dl.piratekit.com/compiledmyself/gofspy.exe
+- https://dl.piratekit.com/compiledmyself/gofspy32.exe
 
 |
 
